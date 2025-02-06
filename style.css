@@ -1,0 +1,135 @@
+body{
+    background: #dd3e54;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #6be585, #dd3e54);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #6be585, #dd3e54); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.dropdown-menu{
+    background-color: #ffffff40;
+    
+}
+.dropdown-item:hover {
+    background-color: #ffffff40; /* Arka plan rengini ayarla */
+
+}
+.bgc{
+    background-color: #ffffff60!important;
+}
+.picture1{
+    border-radius: 10px;
+    width: 600px;
+    height: 400px;
+
+
+}
+#button1{
+    background-color: rgba(33, 33, 33, 0.85); /* Siyah ve gri karışımı, %70 opaklık */
+    padding: 8px 24px !important;
+    margin-right: 16px;
+}
+#button1:hover{
+        background-color: rgba(50, 50, 50, 0.701); /* Koyu gri, %85 opaklık */
+      
+}
+#button2{
+   background-color: #c95b5c;
+   padding: 8px 24px !important;
+    
+}
+#button2:hover{
+   background-color: rgba(201, 91, 93, 0.603);
+    
+}
+#help{
+    height: 45px;
+    width: 45px;
+
+}
+#help2{
+    height: 45px;
+    width: 45px;
+}
+#partners{
+    height: 45px;
+    width: 45px;
+}
+#horse-riding{
+    height: 45px;
+    width: 45px;
+}
+#foto1{
+    padding-bottom: 25px;
+}
+#hero-image{
+    height: 45px;
+    width: 45px;
+    position: absolute;
+    left: 60px;
+    top: 2px;
+    
+}
+.rotate-img {
+    transform: rotate(45deg); /* Burada dereciyi istediğin gibi değiştirebilirsin */
+    
+}
+.Pomodoro{
+    background-color: #ffffff60;
+}
+
+.cizgi{
+    color: #dd3e54;
+}
+.emınoglu{
+    height: 40px;
+    width: 40px;
+}
+.card{
+    width: 376px !important;
+    height: 500px !important;
+}
+.carding{
+    width: 376px !important;
+    height: 213px !important;
+}
+.badge{
+    color: #ffffff;
+    background-color: #dd3e54;
+}
+.products{
+    background-color: #ffffff;
+   
+}
+.card1{
+    padding-left: 30px;
+    padding-right: 30px !important;
+   
+}
+footer{
+    background-color: #ffffff60;
+}
+#about-first-button{
+    background-color: #c95b5c;
+    color: #ffffff;
+}
+#about-first-button:hover{
+    background-color: rgba(201, 91, 93, 0.603);
+}
+.our-founding{
+    background-color: #ffffff40;
+}
+.our-team{
+    background-color: #ffffff20;
+}
+.icons{
+    height: 45px;
+    width: 45px;
+}
+.form1{
+    background-color: #ffffff20;
+}
+.form-button{
+    background-color: #c95b5c;
+}
+.form-button:hover{
+    background-color: rgba(201, 91, 93, 0.603);
+}
